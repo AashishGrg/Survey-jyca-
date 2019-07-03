@@ -1,0 +1,15 @@
+[
+  {
+    "model": "collector.collectorgroup",
+    "pk": 1,
+    "fields": {
+      "data_collectors": [
+        2
+      ],
+      "groups": [
+        1,
+        3
+      ]
+    }
+  }
+]

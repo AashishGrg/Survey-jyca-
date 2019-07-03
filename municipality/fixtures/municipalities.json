@@ -1,0 +1,54 @@
+[
+  {
+    "model": "municipality.municipality",
+    "pk": 1,
+    "fields": {
+      "name": "Kathmandu"
+    }
+  },
+  {
+    "model": "municipality.municipality",
+    "pk": 2,
+    "fields": {
+      "name": "Bharatpur"
+    }
+  },
+  {
+    "model": "municipality.municipality",
+    "pk": 3,
+    "fields": {
+      "name": "Lalitpur"
+    }
+  },
+  {
+    "model": "municipality.municipality",
+    "pk": 4,
+    "fields": {
+      "name": "Pokhara"
+    }
+  },
+  {
+    "model": "municipality.group",
+    "pk": 1,
+    "fields": {
+      "name": "Ward No. 1",
+      "municipality": 1
+    }
+  },
+  {
+    "model": "municipality.group",
+    "pk": 2,
+    "fields": {
+      "name": "Ward No. 2",
+      "municipality": 1
+    }
+  },
+  {
+    "model": "municipality.group",
+    "pk": 3,
+    "fields": {
+      "name": "Ward No. 1",
+      "municipality": 2
+    }
+  }
+]

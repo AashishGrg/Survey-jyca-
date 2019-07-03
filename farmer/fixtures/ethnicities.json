@@ -1,0 +1,30 @@
+[
+  {
+    "model": "farmer.ethnicity",
+    "pk": 1,
+    "fields": {
+      "name": "Newar"
+    }
+  },
+  {
+    "model": "farmer.ethnicity",
+    "pk": 2,
+    "fields": {
+      "name": "Gurung"
+    }
+  },
+  {
+    "model": "farmer.ethnicity",
+    "pk": 3,
+    "fields": {
+      "name": "Brahmin"
+    }
+  },
+  {
+    "model": "farmer.ethnicity",
+    "pk": 4,
+    "fields": {
+      "name": "Chhetri"
+    }
+  }
+]

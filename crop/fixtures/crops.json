@@ -1,0 +1,86 @@
+[
+  {
+    "model": "crop.cropmethod",
+    "pk": 1,
+    "fields": {
+      "name": "Grain Spreading"
+    }
+  },
+  {
+    "model": "crop.cropmethod",
+    "pk": 2,
+    "fields": {
+      "name": "Stem Cutting"
+    }
+  },
+  {
+    "model": "crop.cropmethod",
+    "pk": 3,
+    "fields": {
+      "name": "Tunneling"
+    }
+  },
+  {
+    "model": "crop.croparea",
+    "pk": 1,
+    "fields": {
+      "name": "Ropani"
+    }
+  },
+  {
+    "model": "crop.croparea",
+    "pk": 2,
+    "fields": {
+      "name": "Bigha"
+    }
+  },
+  {
+    "model": "crop.croparea",
+    "pk": 3,
+    "fields": {
+      "name": "Katha"
+    }
+  },
+  {
+    "model": "crop.cropname",
+    "pk": 1,
+    "fields": {
+      "name": "Rice"
+    }
+  },
+  {
+    "model": "crop.cropname",
+    "pk": 2,
+    "fields": {
+      "name": "Wheat"
+    }
+  },
+  {
+    "model": "crop.cropname",
+    "pk": 3,
+    "fields": {
+      "name": "Maize"
+    }
+  },
+  {
+    "model": "crop.cropname",
+    "pk": 4,
+    "fields": {
+      "name": "Millet"
+    }
+  },
+  {
+    "model": "crop.cropname",
+    "pk": 5,
+    "fields": {
+      "name": "Potato"
+    }
+  },
+  {
+    "model": "crop.cropname",
+    "pk": 6,
+    "fields": {
+      "name": "Tomato"
+    }
+  }
+]

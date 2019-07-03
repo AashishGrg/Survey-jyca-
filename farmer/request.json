@@ -1,0 +1,92 @@
+[
+  {
+    "farmer": {
+      "full_name": "farmer 1",
+      "ethnicity": 1,
+      "gender": "MALE",
+      "phone_number": "9812128622",
+      "address": "kavre",
+      "municipality": 1,
+      "group": 1,
+      "family_members_count": 25,
+      "family_workers_count": 18
+    },
+    "crops": [
+      {
+        "name": 1,
+        "method": 3,
+        "variety": "ii",
+        "growing_period_from": "MANGSIR",
+        "growing_period_to": "POUSH",
+        "area_type": 1,
+        "area": 6,
+        "production_in_kg": 100,
+        "sales_in_kg": 25,
+        "cost": 100,
+        "general_cost": 80,
+        "labor_cost": 40,
+        "other_cost": 25
+      },
+      {
+        "name": 2,
+        "method": 2,
+        "variety": "ii",
+        "growing_period_from": "SAWAN",
+        "growing_period_to": "BHADAU",
+        "area_type": 2,
+        "area": 4,
+        "production_in_kg": 100,
+        "sales_in_kg": 25,
+        "cost": 100,
+        "general_cost": 80,
+        "labor_cost": 40,
+        "other_cost": 25
+      }
+    ]
+  },
+  {
+    "farmer": {
+      "full_name": "farmer 2",
+      "ethnicity": 2,
+      "gender": "MALE",
+      "phone_number": "9823845231",
+      "address": "CHAITRA",
+      "municipality": 2,
+      "group": 1,
+      "family_members_count": 19,
+      "family_workers_count": 11
+    },
+    "crops": [
+      {
+        "name": 3,
+        "method": 2,
+        "variety": "ii",
+        "growing_period_from": "BAISHAKH",
+        "growing_period_to": "SAWAN",
+        "area_type": 1,
+        "area": 5,
+        "production_in_kg": 100,
+        "sales_in_kg": 25,
+        "cost": 100,
+        "general_cost": 80,
+        "labor_cost": 40,
+        "other_cost": 25
+      },
+      {
+        "name": 4,
+        "method": 3,
+        "variety": "ii",
+        "growing_period_from": "FALGUN",
+        "growing_period_to": "CHAITRA",
+        "area_type": 1,
+        "area": 20,
+        "production_in_kg": 100,
+        "sales_in_kg": 25,
+        "cost": 100,
+        "general_cost": 80,
+        "labor_cost": 40,
+        "other_cost": 25
+      }
+    ]
+  }
+]

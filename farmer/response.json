@@ -1,0 +1,114 @@
+{
+  "farmers": [
+    {
+      "id": 1,
+      "phone_number": "9813138620",
+      "full_name": "farmer 1",
+      "address": "kavre",
+      "gender": "MALE",
+      "family_members_count": 25,
+      "family_workers_count": 18,
+      "municipality": {
+        "id": 1,
+        "name": "Kathmandu"
+      },
+      "group": {
+        "id": 1,
+        "name": "Ward No. 1"
+      },
+      "ethnicity": {
+        "id": 1,
+        "name": "Newar"
+      },
+      "crops": [
+        {
+          "id": 1,
+          "name": "Rice",
+          "area": "Per Hector",
+          "variety": "ii",
+          "method": "Tunneling",
+          "ropani": 2,
+          "production_in_kg": 100,
+          "sales_in_kg": 25,
+          "cost": 100,
+          "general_cost": 80,
+          "labor_cost": 40,
+          "other_cost": 25,
+          "growing_period_from": "2019-01-01",
+          "growing_period_to": "2019-01-01"
+        },
+        {
+          "id": 2,
+          "name": "Wheat",
+          "area": "Per Hector",
+          "variety": "ii",
+          "method": "Stem Cutting",
+          "ropani": 2,
+          "production_in_kg": 100,
+          "sales_in_kg": 25,
+          "cost": 100,
+          "general_cost": 80,
+          "labor_cost": 40,
+          "other_cost": 25,
+          "growing_period_from": "2019-01-01",
+          "growing_period_to": "2019-01-01"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "phone_number": "ff",
+      "full_name": "farmer 2",
+      "address": "chitwan",
+      "gender": "MALE",
+      "family_members_count": 19,
+      "family_workers_count": 11,
+      "municipality": {
+        "id": 2,
+        "name": "Bharatpur"
+      },
+      "group": {
+        "id": 1,
+        "name": "Ward No. 1"
+      },
+      "ethnicity": {
+        "id": 2,
+        "name": "Gurung"
+      },
+      "crops": [
+        {
+          "id": 3,
+          "name": "Maize",
+          "area": "Per Hector",
+          "variety": "ii",
+          "method": "Stem Cutting",
+          "ropani": 2,
+          "production_in_kg": 100,
+          "sales_in_kg": 25,
+          "cost": 100,
+          "general_cost": 80,
+          "labor_cost": 40,
+          "other_cost": 25,
+          "growing_period_from": "2019-01-01",
+          "growing_period_to": "2019-01-01"
+        },
+        {
+          "id": 4,
+          "name": "Millet",
+          "area": "Per Hector",
+          "variety": "ii",
+          "method": "Tunneling",
+          "ropani": 2,
+          "production_in_kg": 100,
+          "sales_in_kg": 25,
+          "cost": 100,
+          "general_cost": 80,
+          "labor_cost": 40,
+          "other_cost": 25,
+          "growing_period_from": "2019-01-01",
+          "growing_period_to": "2019-01-01"
+        }
+      ]
+    }
+  ]
+}
